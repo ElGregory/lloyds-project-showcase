@@ -4,7 +4,7 @@ An open source, fully customizable developer portfolio website built with React,
 
 ## 🚀 Live Demo
 
-**URL**: https://lovable.dev/projects/82f20ec8-08e5-47b9-addf-eaf6182de0f0
+**URL**: https://lloyds-project-showcase.lovable.app/
 
 ## ✨ Features
 
