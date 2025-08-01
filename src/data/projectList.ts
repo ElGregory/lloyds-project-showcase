@@ -1,13 +1,13 @@
 export const projectList = [
     {
         title: "Lloyd Gregory's Dev Portfolio",
-        description: "An introduction to me as an software engineer along with a breakdown of some of my recent projects, why I started them and what I think makes them unigue.",
+        description: "An introduction to me as a software engineer along with a breakdown of some of my recent projects, why I started them and what I think makes them unigue.",
         url: "",
         why: "About Me: I'm a full-stack engineer with a passion for building scalable, high-performance systems and intuitive user experiences. Leading projects from the ground up across industries.",
         unique: "Combining technical expertise with entrepreneurial vision to create impactful solutions that bridge the gap between complex systems and user needs.",
         hidePreview: true,
         technologies: [
-            "React", "Next.js", "Figma", "B2B eCommerce", "C#", "PostgreSQL", "Supabase", "Node.js", "OpenAI", "Google Gemini", "AWS", "ECS", "Docker", "Redux", "ElasticSearch", "MS SQL", "Typescript", "Python"
+            "React", "Next.js", "Figma", "B2B eCommerce", "C#", "PostgreSQL", "Supabase", "Node.js", "OpenAI", "Google Gemini", "AWS", "ECS", "Docker", "Redux", "MS SQL", "Typescript", "Python"
         ],
         highlights: [
             "Delivered projects on time and under budget",
